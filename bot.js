@@ -16,14 +16,14 @@ client.on('ready', () => {
 
 client.on('message', message => {
     if(message.content === '-هات'){
-        message.channel.send('#credit @! ๖ۣۜℜIP⇝ℳℜ_ℳⅅℳℛ👑#0590 1000 ')
+        message.channel.send('#credit @! ๖ۣۜℜIP⇝ℳℜ_ℳⅅℳℛ👑#0590  1000 ')
     }
 });
 
 
 client.on('message', message => {
     if(message.content === '-هات'){
-        message.channel.send('#credit @! ๖ۣۜℜIP⇝ℳℜ_ℳⅅℳℛ👑#0590 1000 ')
+        message.channel.send('#credit @! ๖ۣۜℜIP⇝ℳℜ_ℳⅅℳℛ👑#0590  1000 ')
     }
 });
 
